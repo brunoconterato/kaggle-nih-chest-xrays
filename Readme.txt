@@ -1,3 +1,5 @@
+Execução do desafio https://www.kaggle.com/nih-chest-xrays
+
 Precisa baixar datasets em: 
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
@@ -16,3 +18,10 @@ Por simplicidade, as imagens foram separadas apenas em Treino e Teste (para melh
 3. Executar o script desafio x_ray.ipynb
 
 Os arquivos já vem com resultados de teste feitos no Crestle.
+
+Resumo de métricas obtidas:
+Epoch 100/100
+3513/3513 [==============================] - 15s 4ms/step - loss: 0.1642 - acc: 0.9402 - f1_score: 0.9592 - val_loss: 0.1413 - val_acc: 0.9428 - val_f1_score: 0.9614
+Accuracy:  0.9427839342495196
+
+Qualquer problema, entre em contato!
